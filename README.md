@@ -23,3 +23,6 @@ Some important things to note about June in Oahu and December in Oahu are:
 While it makes sense that the minimum temperature would drastically drop in the winter, the average temperature remained above 70 degrees. This leads us to believe that
 maintaining service would be possible on select days in the winter months, although according to the histograms, December sees a disproportionate amount of cold days compared
 to the even distribution that June sees.
+
+Although temperatures seem to be fine in December, the precipitation data can not be ignored. December saw an increase both in average rainfall as well as largest day of rainfall
+compared to June. In order to maintain smooth buisness during December, further study must be done on what particular days see the most rainfall in December.
